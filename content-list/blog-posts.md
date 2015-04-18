@@ -3,6 +3,8 @@
 
 ### Git and GitHub
 - [ ] [Git Intro for Designers](http://blog.teamtreehouse.com/git-for-designers-part-1)
+- [ ] [GitHub Basics](http://www.sitepoint.com/the-designers-guide-to-git-or-how-i-learned-to-stop-worrying-and-love-the-repository/)
+- [ ] [Hack: GitHub For Beginners](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1)
 
 ### Typography
 - [ ] [Five simple steps to better typography](http://www.markboulton.co.uk/journal/five-simple-steps-to-better-typography)
