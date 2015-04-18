@@ -34,3 +34,6 @@
 
 ### Performance
 - [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)
+
+### Presentations
+- [Sam's Slides](http://snugug.com/presentations)
