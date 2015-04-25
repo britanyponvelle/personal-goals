@@ -3,7 +3,7 @@
 Feel free to add to the list :)
 
 ## To-Read
----
+
 - [ ] City of Thieves -- David Benioff
 - [ ] Let's Explore Diabetes with Owls -- David Sedaris
 - [ ] Hitchhiker's Guide to the Galaxy -- Douglas Adams
@@ -14,7 +14,5 @@ Feel free to add to the list :)
 - [ ] The Book Thief -- Markus Zusak
 
 
-Recommendations
----
-
+**Recommendations:**
 If you leave a rec, please sign your name!
