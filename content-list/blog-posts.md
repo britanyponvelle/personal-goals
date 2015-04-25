@@ -38,11 +38,16 @@
 - [ ] [Flexbox Cheatsheet Cheatsheet](http://jonibologna.com/flexbox-cheatsheet/?utm_content=bufferfbf53&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [ ] [Flexbox Adventures](http://chriswrightdesign.com/experiments/flexbox-adventures/)
 
+### User On-Boarding
+- [ ] [User Onboarding Teardowns](https://www.useronboard.com/onboarding-teardowns/)
+- [ ] [First Time User Experiences](http://firsttimeux.tumblr.com/)
+
 ### System Design
 - [ ] [Algorithmic Design Systems](http://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/)
 
 ### Design and Psychology
 - [ ] [This Is How You Get People to Trust Your Product](http://firstround.com/review/Urbansitter-Lynn-Perkins/)
+- [ ] [How Users Really Perceive Interfaces: Psychological and Biological Approach to User Interfaces](https://medium.com/@kresokraljevic/how-users-really-perceive-interfaces-psychological-and-biological-approach-to-user-interfaces-c1271e0225c7)
 
 ### Accessibility
 - [ ] [Reframing Accessibility for the Web](http://alistapart.com/article/reframing-accessibility-for-the-web)

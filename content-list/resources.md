@@ -24,7 +24,7 @@
 
 ### Tools
 - [Mug of Sublime Text (shortcuts)](http://katiek2.github.io/most/)
-- [SVG Optimizer](http://petercollingridge.appspot.com/svg_optimiser)
+- [SVG Optimizer](https://jakearchibald.github.io/svgomg/)
 
 ### UI Patterns
 - [Pattern Library Resources](http://patternlab.io/resources.html)
@@ -34,6 +34,8 @@
 
 ### Performance
 - [Google's Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [The Psychology of Web Performance](http://www.websiteoptimization.com/speed/tweak/psychology-web-performance/)
+- [Our need for web speed: It’s about neuroscience, not entitlement](http://www.webperformancetoday.com/2012/03/21/neuroscience-page-speed-web-performance/)
 
 ### Presentations
 - [Sam's Slides](http://snugug.com/presentations)
