@@ -1,4 +1,4 @@
-# A Checklist of Austin Coffee Shops. (Inspired by Una)
+# A Checklist of Austin Coffee Shops.
 
 Gotta catch 'em all.
 
