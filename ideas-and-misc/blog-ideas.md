@@ -2,5 +2,5 @@
 
 - [ ] The power of sketchnoting
 - [ ] Coding resources for visual designers
-- [ ] Baby steps to designing in the browser
+- [ ] Why I learned to code
 - [ ] Responsive typography
