@@ -17,3 +17,4 @@
 - [ ] [The Design of Everyday Things](http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20)
 - [ ] [125 Ways to Enhance Usability, Influence Perception, Increase Appeal, Make Better Design Decisions, and Teach through Design](http://www.amazon.com/Universal-Principles-Design-Revised-Updated/dp/1592535879/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20)
 - [ ] [The Laws of Simplicity](http://www.amazon.com/Laws-Simplicity-Design-Technology-Business/dp/0262134721/ref=as_li_tf_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0520271440&linkCode=as2&tag=teco06-20)
+- [ ] [The Sketchnote Handbook](http://www.amazon.com/The-Sketchnote-Handbook-illustrated-visual/dp/0321857895)
