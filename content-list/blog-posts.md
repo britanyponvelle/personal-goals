@@ -48,9 +48,13 @@
 ### Design and Psychology
 - [ ] [This Is How You Get People to Trust Your Product](http://firstround.com/review/Urbansitter-Lynn-Perkins/)
 - [ ] [How Users Really Perceive Interfaces: Psychological and Biological Approach to User Interfaces](https://medium.com/@kresokraljevic/how-users-really-perceive-interfaces-psychological-and-biological-approach-to-user-interfaces-c1271e0225c7)
+- [ ] [Gamification Framework](https://getpocket.com/a/read/290910292)
 
 ### Accessibility
 - [ ] [Reframing Accessibility for the Web](http://alistapart.com/article/reframing-accessibility-for-the-web)
+
+### Animation
+- [ ] [Prototyping Animation with Keynote](https://robots.thoughtbot.com/animating-with-keynote)
 
 ### Lists
 - [ ] [The Year of the Looking Glass](https://medium.com/the-year-of-the-looking-glass)
