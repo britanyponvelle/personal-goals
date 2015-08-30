@@ -30,6 +30,7 @@
 - [ ] [Logical Breakpoints For Your Responsive Design](http://www.smashingmagazine.com/2013/03/01/logical-breakpoints-responsive-design/)
 - [ ] [The best UI is no UI](http://craigmdennis.com/articles/the-best-ui-is-no-ui)
 - [ ] [Elastic Layouts](http://v1.jontangerine.com/log/2007/09/the-incredible-em-and-elastic-layouts-with-css)
+- [ ] [My icon design workflow](http://bjango.com/articles/icondesignworkflow/)
 
 ### Mobile First
 - [ ] [Google's 25 Rules For Building A Better Mobile Site](http://www.fastcodesign.com/3029681/googles-25-rules-for-building-a-better-mobile-site?utm_source=facebook#2)

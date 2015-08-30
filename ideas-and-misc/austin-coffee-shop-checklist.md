@@ -1,9 +1,11 @@
-# A Checklist of Austin Coffee Shops.
+# A Checklist of Coffee Shops.
 
 Gotta catch 'em all.
 
+##Austin
+
 - [ ] Halcyon Coffee, Bar & Lounge
-- [ ] Cherrywood Coffeehouse
+- [x] Cherrywood Coffeehouse
 - [ ] Cenote
 - [ ] Vintage Heart Coffee
 - [ ] Thunderbird Coffee
@@ -13,7 +15,7 @@ Gotta catch 'em all.
 - [ ] Jo’s Coffee
 - [ ] Once Over Coffee Bar
 - [ ] Café Medici
-- [ ] Mozart's Coffee
+- [x] Mozart's Coffee
 - [x] Epoch Coffee
 - [ ] Pacha
 - [x] Houndstooth Coffee
@@ -34,3 +36,18 @@ Gotta catch 'em all.
 - [ ] 1886 Cafe & Bakery
 - [ ] Spider House
 - [ ] Patika
+
+##Houston
+
+- [x] Bosta, Wine & Coffee
+- [x] Catalina Coffee
+- [ ] Tout Suite
+- [x] Black Hole Coffee House
+- [ ] Agora
+- [ ] Double Trouble Caffeine & Cocktails
+- [ ] Inversion Coffee House
+- [ ] Bungalow Coffee
+- [ ] Minuti Coffee
+- [ ] The Nook Cafe
+- [ ] Antidote
+- [ ] Pura Coffee
