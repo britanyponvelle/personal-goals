@@ -1,8 +1,8 @@
-# A Checklist of Coffee Shops.
+# A Coffee Shop Bucketlist 
 
 Gotta catch 'em all.
 
-##Austin
+##01/  Austin
 
 - [ ] Halcyon Coffee, Bar & Lounge
 - [x] Cherrywood Coffeehouse
@@ -37,7 +37,7 @@ Gotta catch 'em all.
 - [ ] Spider House
 - [ ] Patika
 
-##Houston
+##02/  Houston
 
 - [x] Bosta, Wine & Coffee
 - [x] Catalina Coffee
