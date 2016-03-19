@@ -20,7 +20,7 @@ Gotta catch 'em all.
 - [ ] Pacha
 - [x] Houndstooth Coffee
 - [ ] Flightpath Coffeehouse
-- [ ] Summermoon Coffee Bar
+- [x] Summermoon Coffee Bar
 - [ ] Quack's 43rd Street Bakery
 - [ ] Austin Java
 - [ ] Figure 8 Coffee Purveyors
@@ -49,5 +49,6 @@ Gotta catch 'em all.
 - [ ] Bungalow Coffee
 - [ ] Minuti Coffee
 - [ ] The Nook Cafe
-- [ ] Antidote
+- [x] Antidote
 - [ ] Pura Coffee
+- [x] Siphon Coffee
